@@ -7,6 +7,9 @@ sites:
     url: https://caturra.social
   - name: API
     url: https://caturra.social/api
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: V1 API
     url: https://caturra.social/api/v1/ping
 
@@ -18,8 +21,9 @@ status-website:
   logoUrl: https://caturra.social/logo.png
   name: Caturra Uptime
   favicon: https://caturra.social/favicon.ico
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  themeUrl: https://caturra.social/build/assets/app-DckClSRg.css
+  #introTitle: ""
+  #introMessage: 
   navbar:
     - title: Status
       href: /
