@@ -8,15 +8,16 @@ sites:
   - name: API
     url: https://caturra.social/api
   - name: V1 API
-    url: https://caturra.social/api/v1
+    url: https://caturra.social/api/v1/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.caturra.social
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://caturra.social/logo.png
   name: Caturra Uptime
+  favicon: https://caturra.social/favicon.ico
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
