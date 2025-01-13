@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://caturra.social/logo.png
   name: Caturra Uptime
   favicon: https://caturra.social/favicon.ico
-  themeUrl: https://caturra.social/build/assets/app-DckClSRg.css
+  themeUrl: https://status.caturra.social/caturra.css
   #introTitle: ""
   #introMessage: 
   navbar:
