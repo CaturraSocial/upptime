@@ -4,19 +4,19 @@
     "url": "https://caturra.social",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.social.ico",
     "slug": "site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 723,
-    "timeWeek": 647,
-    "timeMonth": 809,
-    "timeYear": 763,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "87.77%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.89%",
+    "time": 762,
+    "timeDay": 658,
+    "timeWeek": 640,
+    "timeMonth": 802,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-05-05": 1
+      "2025-05-05": 176
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://caturra.social/api",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.social.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.89%",
     "time": 156,
-    "timeDay": 130,
-    "timeWeek": 139,
+    "timeDay": 139,
+    "timeWeek": 140,
     "timeMonth": 154,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-05-05": 1
+      "2025-05-05": 176
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://caturra.social/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.social.ico",
     "slug": "v1-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "87.83%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.89%",
     "time": 152,
-    "timeDay": 126,
-    "timeWeek": 134,
+    "timeDay": 141,
+    "timeWeek": 137,
     "timeMonth": 151,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-05-05": 0
+      "2025-05-05": 175
     }
   }
 ]
