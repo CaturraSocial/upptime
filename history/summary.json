@@ -8,13 +8,13 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.86%",
-    "time": 670,
-    "timeDay": 557,
-    "timeWeek": 522,
-    "timeMonth": 569,
-    "timeYear": 670,
+    "time": 669,
+    "timeDay": 488,
+    "timeWeek": 531,
+    "timeMonth": 576,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2025-06-24": 24,
       "2025-06-19": 26,
@@ -31,18 +31,20 @@
     "url": "https://ptb.caturra.social",
     "icon": "https://icons.duckduckgo.com/ip3/ptb.caturra.social.ico",
     "slug": "ptb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 469,
-    "timeWeek": 566,
-    "timeMonth": 602,
-    "timeYear": 602,
-    "dailyMinutesDown": {}
+    "time": 586,
+    "timeDay": 511,
+    "timeWeek": 555,
+    "timeMonth": 586,
+    "timeYear": 586,
+    "dailyMinutesDown": {
+      "2025-07-08": 0
+    }
   },
   {
     "name": "API Live",
@@ -55,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 143,
-    "timeWeek": 148,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 157,
+    "timeDay": 151,
+    "timeWeek": 149,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -67,17 +69,19 @@
     "url": "https://ptb.caturra.social/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/ptb.caturra.social.ico",
     "slug": "api-ptb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 110,
-    "timeWeek": 123,
-    "timeMonth": 130,
-    "timeYear": 130,
-    "dailyMinutesDown": {}
+    "time": 134,
+    "timeDay": 149,
+    "timeWeek": 131,
+    "timeMonth": 134,
+    "timeYear": 134,
+    "dailyMinutesDown": {
+      "2025-07-08": 0
+    }
   }
 ]
