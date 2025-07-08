@@ -1,7 +1,7 @@
 url: https://ptb.caturra.social/api/v1/ping
-status: up
-code: 200
-responseTime: 130
-lastUpdated: 2025-07-07T23:16:34.639Z
+status: down
+code: 502
+responseTime: 167
+lastUpdated: 2025-07-08T00:00:10.631Z
 startTime: 2025-06-29T00:38:11.012Z
 generator: Upptime <https://github.com/upptime/upptime>
