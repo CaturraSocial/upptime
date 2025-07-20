@@ -7,6 +7,10 @@ sites:
     url: https://caturra.social
     expectedStatusCodes:
       - 200
+  - name: Alpha
+    url: https://alpha.caturra.social
+    expectedStatusCodes:
+      - 200
   - name: PTB
     url: https://ptb.caturra.social
     expectedStatusCodes:
@@ -17,6 +21,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
+  - name: API Alpha
+    url: https://alpha.caturra.social/api/v1/ping
+    expectedStatusCodes:
+      - 200
+    delay: 5000
   - name: API PTB
     url: https://ptb.caturra.social/api/v1/ping
     expectedStatusCodes:
