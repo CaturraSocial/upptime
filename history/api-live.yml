@@ -1,7 +1,7 @@
 url: https://caturra.social/api/v1/ping
-status: down
-code: 415
-responseTime: 161
-lastUpdated: 2025-07-27T09:47:39.578Z
+status: up
+code: 200
+responseTime: 169
+lastUpdated: 2025-07-27T09:58:50.414Z
 startTime: 2025-06-29T00:38:10.457Z
 generator: Upptime <https://github.com/upptime/upptime>
