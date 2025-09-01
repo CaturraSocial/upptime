@@ -37,19 +37,19 @@
     "url": "https://alpha.caturra.social",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.caturra.social.ico",
     "slug": "alpha",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 730,
-    "timeWeek": 678,
-    "timeMonth": 615,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 595,
+    "timeDay": 588,
+    "timeWeek": 649,
+    "timeMonth": 610,
+    "timeYear": 595,
     "dailyMinutesDown": {
-      "2025-09-01": 2
+      "2025-09-01": 36
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://alpha.caturra.social/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.caturra.social.ico",
     "slug": "api-alpha",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 139,
-    "timeDay": 170,
-    "timeWeek": 144,
+    "timeDay": 146,
+    "timeWeek": 142,
     "timeMonth": 141,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-09-01": 1
+      "2025-09-01": 36
     }
   },
   {
