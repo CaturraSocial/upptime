@@ -7,40 +7,40 @@ sites:
     url: https://caturra.app
     expectedStatusCodes:
       - 200
-  - name: Canary
-    url: https://alpha.caturra.social
-    expectedStatusCodes:
-      - 200
+  # - name: Canary
+  #   url: https://canary.caturra.app
+  #   expectedStatusCodes:
+  #     - 200
   - name: API Live
     url: https://caturra.app/api/v1/ping
     expectedStatusCodes:
       - 200
     delay: 5000
-  - name: API Canary
-    url: https://alpha.caturra.social/api/v1/ping
-    expectedStatusCodes:
-      - 200
-    delay: 5000
+  # - name: API Canary
+  #   url: https://canary.caturra.app/api/v1/ping
+  #   expectedStatusCodes:
+  #     - 200
+  #   delay: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.caturra.social
+  cname: status.caturra.app
   metaTags:
     - name: "robots"
       content: "noindex"
   # baseUrl: /your-repo-name
-  logoUrl: https://caturra.social/logo.png
+  logoUrl: https://caturra.app/logo.png
   name: Caturra Uptime
-  favicon: https://caturra.social/favicon.ico
-  themeUrl: https://status.caturra.social/caturra.css
+  favicon: https://caturra.app/favicon.ico
+  themeUrl: https://status.caturra.app/caturra.css
   #introTitle: ""
   #introMessage: 
   navbar:
     - title: Status
       href: /
     - title: Site
-      href: https://caturra.social?rel=status
+      href: https://caturra.app?rel=status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
