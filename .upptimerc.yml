@@ -7,20 +7,38 @@ sites:
     url: https://caturra.app
     expectedStatusCodes:
       - 200
-  # - name: Canary
-  #   url: https://canary.caturra.app
-  #   expectedStatusCodes:
-  #     - 200
   - name: API Live
     url: https://caturra.app/api/v1/ping
     expectedStatusCodes:
       - 200
     delay: 5000
+  - name: Dev
+    url: https://dev.caturra.app
+    expectedStatusCodes:
+      - 200
+  - name: API Dev
+    url: https://dev.caturra.app/api/v1/ping
+    expectedStatusCodes:
+      - 200
+    delay: 5000
+  # - name: Canary
+  #   url: https://canary.caturra.app
+  #   expectedStatusCodes:
+  #     - 200
   # - name: API Canary
   #   url: https://canary.caturra.app/api/v1/ping
   #   expectedStatusCodes:
   #     - 200
   #   delay: 5000
+    
+  - name: Bengal
+    url: https://caturra.social
+    expectedStatusCodes:
+      - 200
+  - name: Sphynx
+    url: https://sphynx.caturra.app
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
