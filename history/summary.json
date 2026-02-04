@@ -4,9 +4,9 @@
     "url": "https://caturra.app",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.app.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
@@ -16,6 +16,7 @@
     "timeMonth": 814,
     "timeYear": 676,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2025-11-10": 16,
       "2025-10-21": 102,
       "2025-10-20": 35,
@@ -45,9 +46,9 @@
     "url": "https://caturra.app/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.app.ico",
     "slug": "api-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
@@ -57,6 +58,7 @@
     "timeMonth": 751,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2025-11-10": 16,
       "2025-10-21": 101,
       "2025-10-20": 35,
@@ -78,9 +80,9 @@
     "url": "https://dev.caturra.app",
     "icon": "https://icons.duckduckgo.com/ip3/dev.caturra.app.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +91,18 @@
     "timeWeek": 629,
     "timeMonth": 639,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "API Dev",
     "url": "https://dev.caturra.app/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/dev.caturra.app.ico",
     "slug": "api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +111,18 @@
     "timeWeek": 154,
     "timeMonth": 153,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "Bengal",
     "url": "https://caturra.social",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.social.ico",
     "slug": "bengal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,16 +131,18 @@
     "timeWeek": 752,
     "timeMonth": 781,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "Sphynx",
     "url": "https://sphynx.caturra.app",
     "icon": "https://icons.duckduckgo.com/ip3/sphynx.caturra.app.ico",
     "slug": "sphynx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,6 +151,8 @@
     "timeWeek": 471,
     "timeMonth": 489,
     "timeYear": 483,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   }
 ]
