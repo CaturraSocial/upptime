@@ -4,17 +4,17 @@
     "url": "https://caturra.app",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.app.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 733,
-    "timeDay": 732,
-    "timeWeek": 724,
-    "timeMonth": 759,
-    "timeYear": 756,
+    "timeDay": 537,
+    "timeWeek": 677,
+    "timeMonth": 746,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-11-10": 16,
       "2026-02-04": 254,
@@ -22,7 +22,8 @@
       "2026-04-28": 156,
       "2026-06-10": 439,
       "2026-07-29": 294,
-      "2026-08-01": 242
+      "2026-08-01": 242,
+      "2026-10-21": 1
     }
   },
   {
@@ -30,17 +31,17 @@
     "url": "https://caturra.app/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.app.ico",
     "slug": "api-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 525,
-    "timeDay": 520,
-    "timeWeek": 536,
-    "timeMonth": 543,
-    "timeYear": 604,
+    "timeDay": 427,
+    "timeWeek": 511,
+    "timeMonth": 537,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2025-11-10": 16,
       "2026-02-04": 254,
@@ -48,7 +49,8 @@
       "2026-04-28": 156,
       "2026-06-10": 439,
       "2026-07-29": 294,
-      "2026-08-01": 242
+      "2026-08-01": 242,
+      "2026-10-21": 1
     }
   },
   {
@@ -56,17 +58,17 @@
     "url": "https://dev.caturra.app",
     "icon": "https://icons.duckduckgo.com/ip3/dev.caturra.app.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 592,
-    "timeDay": 547,
-    "timeWeek": 546,
-    "timeMonth": 581,
-    "timeYear": 592,
+    "time": 591,
+    "timeDay": 452,
+    "timeWeek": 523,
+    "timeMonth": 574,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2026-02-04": 254,
       "2026-02-07": 166,
@@ -75,7 +77,8 @@
       "2026-04-28": 155,
       "2026-06-10": 439,
       "2026-07-29": 294,
-      "2026-08-01": 242
+      "2026-08-01": 242,
+      "2026-10-21": 1
     }
   },
   {
@@ -83,16 +86,16 @@
     "url": "https://dev.caturra.app/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/dev.caturra.app.ico",
     "slug": "api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 312,
-    "timeDay": 463,
-    "timeWeek": 440,
-    "timeMonth": 457,
+    "timeDay": 406,
+    "timeWeek": 428,
+    "timeMonth": 454,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2026-02-04": 255,
@@ -102,7 +105,8 @@
       "2026-04-28": 155,
       "2026-06-10": 439,
       "2026-07-29": 294,
-      "2026-08-01": 242
+      "2026-08-01": 242,
+      "2026-10-21": 1
     }
   },
   {
@@ -110,16 +114,16 @@
     "url": "https://caturra.social",
     "icon": "https://icons.duckduckgo.com/ip3/caturra.social.ico",
     "slug": "bengal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 686,
-    "timeDay": 563,
-    "timeWeek": 602,
-    "timeMonth": 657,
+    "timeDay": 569,
+    "timeWeek": 599,
+    "timeMonth": 655,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2026-02-04": 255,
@@ -128,7 +132,8 @@
       "2026-04-28": 154,
       "2026-06-10": 438,
       "2026-07-29": 293,
-      "2026-08-01": 241
+      "2026-08-01": 241,
+      "2026-10-21": 0
     }
   },
   {
